@@ -1,4 +1,15 @@
-﻿using System;
+﻿// 
+// Class Name:
+//	Program
+//
+// Description:
+//	Conatins main method.
+//
+//
+// Algorilla Inc. 2018
+//
+
+using System;
 
 namespace DesignPatterns
 {
@@ -6,6 +17,7 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-        }
+			
+		}
     }
 }
